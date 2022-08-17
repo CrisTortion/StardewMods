@@ -10,13 +10,13 @@
     ** Generic Mod Config Menu UI
     *********/
     // TODO
-    "config.title.general-options": "General options",
-    "config.enabled-message.name": "Show enabled message",
-    "config.enabled-message.desc": "Whether to show an in-game message in the corner of the screen when noclip mode is turned on.",
-    "config.disabled-message.name": "Show disabled message",
-    "config.disabled-message.desc": "Whether to show an in-game message in the corner of the screen when noclip mode is turned off.",
+    "config.title.general-options": "Generelle Optionen",
+    "config.enabled-message.name": "Aktivierungsnachricht anzeigen",
+    "config.enabled-message.desc": "Ob eine Nachricht in der Bildschirmecke angezeigt werden soll, wenn der Noclip-Modus aktiv ist.",
+    "config.disabled-message.name": "Deaktivierungsnachricht anzeigen",
+    "config.disabled-message.desc": "Ob eine Nachricht in der Bildschirmecke angezeigt werden soll, wenn der Noclip-Modus aus ist.",
 
-    "config.title.controls": "Controls",
-    "config.toggle-key.name": "Toggle key",
-    "config.toggle-key.desc": "The keys which turn noclip mode on or off in-game."
+    "config.title.controls": "Steuerung",
+    "config.toggle-key.name": "Umschalten-Taste",
+    "config.toggle-key.desc": "Die Taste mit der der Noclip-Modus an und aus geschaltet werden kann."
 }
