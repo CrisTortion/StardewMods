@@ -14,203 +14,203 @@
     ** Section titles
     ****/
     // TODO
-    "config.main-options": "Main Options",
-    "config.controls": "Controls",
-    "config.axe": "Axe Features",
-    "config.hoe": "Hoe Features",
-    "config.pickaxe": "Pickaxe Features",
-    "config.scythe": "Scythe Features",
-    "config.melee-blunt": "Melee Blunt Weapons Features",
-    "config.melee-dagger": "Melee Dagger Features",
-    "config.melee-sword": "Melee Sword Features",
-    "config.other-tools": "Other Tools",
-    "config.custom-tools": "Custom Tools",
+    "config.main-options": "Hauptoptionen",
+    "config.controls": "Steuerung",
+    "config.axe": "Axt-Eigenschaften",
+    "config.hoe": "Hacken-Eigenschaften",
+    "config.pickaxe": "Spitzhacken-Eigenschaften",
+    "config.scythe": "Sensen-Eigenschaften",
+    "config.melee-blunt": "Eigenschaften stumpfer Nahkampfwaffen",
+    "config.melee-dagger": "Eigenschaften von Nahkampfdolchen",
+    "config.melee-sword": "Eigenschaften von Schwertern",
+    "config.other-tools": "Eigenschaften anderer Werkzeuge",
+    "config.custom-tools": "Benutzerdefinierte Werkzeuge",
 
 
     /****
     ** Main options
     ****/
     // TODO
-    "config.distance.name": "Distance",
-    "config.distance.tooltip": "The number of tiles in each direction around the tractor to affect (in addition to the tile under it). Default {{defaultValue}}; a value of {{maxRecommendedValue}} covers most of the visible screen, and higher values may negatively impact game performance.",
+    "config.distance.name": "Distanz",
+    "config.distance.tooltip": "Die Zahl der Kacheln, in alle Richtungen, die der Traktor bearbeitet - zusätzlich zu der Kachel darunter. Standardwert {{defaultValue}}; ein Wert von {{maxRecommendedValue}} bearbeitet den Großteil des Sichtbaren. Höhere Werte könnten sich negativ auf das Spiel auswirken",
 
-    "config.speed.name": "Tractor Speed",
-    "config.speed.tooltip": "The speed modifier when riding a tractor. Default {{defaultValue}}.",
+    "config.speed.name": "Traktorgeschwindigkeit",
+    "config.speed.tooltip": "Bestimmt die Geschwindigkeit des Traktors. Standardwert {{defaultValue}}.",
 
-    "config.magnetic-radius.name": "Magnetic Radius",
-    "config.magnetic-radius.tooltip": "The item magnetism amount (higher values attract items from father away). Default {{defaultValue}}.",
+    "config.magnetic-radius.name": "Magnet-Radius",
+    "config.magnetic-radius.tooltip": "Die Distanz aus der Items angezogen werden - je höher der Wert desto größer der Wirkbereich. Standardwert {{defaultValue}}.",
 
-    "config.build-price.name": "Build Price",
-    "config.build-price.tooltip": "The gold price to buy a tractor garage. Default {{defaultValue}}g.",
+    "config.build-price.name": "Baukosten",
+    "config.build-price.tooltip": "Wieviel Gold man für den Bau bezahlen muss. Standardwert {{defaultValue}}g.",
 
-    "config.can-summon-without-garage.name": "Can Summon Without Garage",
-    "config.can-summon-without-garage.tooltip": "Whether you can summon a temporary tractor without building a garage first.",
+    "config.can-summon-without-garage.name": "Herbeirufen ohne Garage",
+    "config.can-summon-without-garage.tooltip": "Ob du einen Traktor herbeirufen kannst (zeitweise), ohne eine Garage zu haben.",
 
-    "config.invincible-on-tractor.name": "Invincible on Tractor",
-    "config.invincible-on-tractor.tooltip": "Whether you should be immune to damage from any source when riding the tractor.",
+    "config.invincible-on-tractor.name": "Unverwundbarkeit auf Traktor",
+    "config.invincible-on-tractor.tooltip": "Ob du unverwundbar sein sollst, während du den Traktor fährst.",
 
-    "config.highlight-radius.name": "Highlight Radius (Debug)",
-    "config.highlight-radius.tooltip": "Whether to highlight the tractor radius when riding one, to help visualize the distance option.",
+    "config.highlight-radius.name": "Markiere Radius (Fehlersuche)",
+    "config.highlight-radius.tooltip": "Ob dir bei Benutzung der Wirkungsbereich des Traktors angezeigt werden soll. Eine Hilfe um die Distanz bessere regulieren zu können.",
 
 
     /****
     ** Keybind options
     ****/
     // TODO
-    "config.summon-key.name": "Summon Tractor",
-    "config.summon-key.tooltip": "Warp an available tractor to your position. Default backspace.",
+    "config.summon-key.name": "Traktor beschwören",
+    "config.summon-key.tooltip": "Teleportiere den Traktor zu dir. Standardwert Rücktaste.",
 
-    "config.dismiss-key.name": "Dismiss Tractor",
-    "config.dismiss-key.tooltip": "Return the tractor you're riding to its home.",
+    "config.dismiss-key.name": "Traktor heimschicken",
+    "config.dismiss-key.tooltip": "Teleportiert den Traktor zurück in seine Garage.",
 
-    "config.hold-to-activate-key.name": "Hold to Activate",
-    "config.hold-to-activate-key.tooltip": "If specified, the tractor will only do something while you're holding this button. If nothing is specified, the tractor will work automatically while you're riding it.",
+    "config.hold-to-activate-key.name": "Halten zum Aktivieren",
+    "config.hold-to-activate-key.tooltip": "Wenn aktiv, 'bewirkt' der Traktor nur wenn eine Taste gedrückt ist. Falls deaktiviert, arbeitet der Traktor immer solange man auf ihm sitzt.",
 
 
     /****
     ** Trees & bushes
     ****/
     // TODO
-    "config.chop-fruit-trees-seeds.name": "Chop Fruit Trees (Seeds)",
-    "config.chop-fruit-trees-seeds.tooltip": "Whether to clear fruit tree seeds.",
+    "config.chop-fruit-trees-seeds.name": "Obstbäume fällen (Keimling)",
+    "config.chop-fruit-trees-seeds.tooltip": "Ob Obstbäume im Keimlingsstadium gefällt werden sollen.",
 
-    "config.chop-fruit-trees-saplings.name": "Chop Fruit Trees (Saplings)",
-    "config.chop-fruit-trees-saplings.tooltip": "Whether to clear fruit trees which aren't fully grown.",
+    "config.chop-fruit-trees-saplings.name": "Obstbäume fällen (Setzling)",
+    "config.chop-fruit-trees-saplings.tooltip": "Ob Obstbäume im Setzlingsstadium gefällt werden sollen.",
 
-    "config.chop-fruit-trees-grown.name": "Chop Fruit Trees (Grown)",
-    "config.chop-fruit-trees-grown.tooltip": "Whether to cut fully-grown fruit trees.",
+    "config.chop-fruit-trees-grown.name": "Obstbäume fällen (Ausgewachsen)",
+    "config.chop-fruit-trees-grown.tooltip": "Ob Obstbäume gefällt werden sollen, die voll ausgewachsen sind.",
 
-    "config.chop-trees-seeds.name": "Chop Trees (Seeds)",
-    "config.chop-trees-seeds.tooltip": "Whether to clear non-fruit tree seeds.",
+    "config.chop-trees-seeds.name": "Bäume fällen (Keimling)",
+    "config.chop-trees-seeds.tooltip": "Ob Bäume im Keimlingsstadium gefällt werden sollen, die keine Obstbäume sind.",
 
-    "config.chop-trees-saplings.name": "Chop Trees (Saplings)",
-    "config.chop-trees-saplings.tooltip": "Whether to clear non-fruit trees which aren't fully grown.",
+    "config.chop-trees-saplings.name": "Bäume fällen (Setzling)",
+    "config.chop-trees-saplings.tooltip": "Ob Bäume, die noch nicht ausgewachsen sind, gefällt werden sollen, die keine Obstbäume sind.",
 
-    "config.chop-trees-grown.name": "Chop Trees (Grown)",
-    "config.chop-trees-grown.tooltip": "Whether to clear fully-grown non-fruit trees.",
+    "config.chop-trees-grown.name": "Bäume fällen (Ausgewachsen)",
+    "config.chop-trees-grown.tooltip": "Ob ausgewachsene Bäume gefällt werden sollen, die keine Obstbäume sind.",
 
-    "config.chop-bushes.name": "Chop Bushes",
-    "config.chop-bushes.tooltip": "Whether to cut bushes that can be chopped.",
+    "config.chop-bushes.name": "Büsche vernichten",
+    "config.chop-bushes.tooltip": "Ob Büsche gehäckselt werden sollen.",
 
-    "config.harvest-fruit-trees.name": "Harvest Fruit Trees",
-    "config.harvest-fruit-trees.tooltip": "Whether to harvest fruit trees.",
+    "config.harvest-fruit-trees.name": "Obstbäume ernten",
+    "config.harvest-fruit-trees.tooltip": "Ob die Früchte der Obstbäume geerntet werden sollen.",
 
 
     /****
     ** Crops/forage/grass
     ****/
     // TODO
-    "config.clear-dead-crops.name": "Clear Dead Crops",
-    "config.clear-dead-crops.tooltip": "Whether to destroy dead crops.",
+    "config.clear-dead-crops.name": "Tote Pflanzen roden",
+    "config.clear-dead-crops.tooltip": "Ob die abgestorbenen Pflanzen entfernt werden sollen.",
 
-    "config.clear-live-crops.name": "Clear Live Crops",
-    "config.clear-live-crops.tooltip": "Whether to destroy live crops.",
+    "config.clear-live-crops.name": "Alle Pflanzen roden",
+    "config.clear-live-crops.tooltip": "Ob lebende Pflanzen entfernt/zerstört werden sollen.",
 
-    "config.harvest-giant-crops.name": "Harvest Giant Crops",
-    "config.harvest-giant-crops.tooltip": "Whether to cut giant crops.",
+    "config.harvest-giant-crops.name": "Riesenwüchse ernten",
+    "config.harvest-giant-crops.tooltip": "Ob auch riesig gewordene Pflanzen geerntet werden sollen.",
 
-    "config.harvest-crops.name": "Harvest Crops",
-    "config.Harvest Crops.tooltip": "Whether to harvest crops.",
+    "config.harvest-crops.name": "Pflanzen ernten",
+    "config.Harvest Crops.tooltip": "Ob die Pflanzen geerntet werden sollen.",
 
-    "config.harvest-flowers.name": "Harvest Flowers",
-    "config.harvest-flowers.tooltip": "Whether to harvest flowers.",
+    "config.harvest-flowers.name": "Blumen ernten",
+    "config.harvest-flowers.tooltip": "Ob ausgewachsene Blumen gepflückt werden sollen.",
 
-    "config.harvest-forage.name": "Harvest Forage",
-    "config.harvest-forage.tooltip": "Whether to harvest forage.",
+    "config.harvest-forage.name": "Sammelbares ernten",
+    "config.harvest-forage.tooltip": "Ob sammelbare Gegenstände geerntet werden sollen.",
 
-    "config.harvest-grass.name": "Harvest Grass",
-    "config.harvest-grass.tooltip": "Whether to cut grass. If you have free silo space, this gives you hay as usual.",
+    "config.harvest-grass.name": "Gräser mähen",
+    "config.harvest-grass.tooltip": "Ob die Gräser gemäht werden sollen. Bei freiem Platz im Silo, wird es wie das Verwenden der Sense gehandhabt.",
 
 
     /****
     ** Debris
     ****/
     // TODO
-    "config.clear-debris.name": "Clear Debris",
-    "config.clear-debris.tooltip": "Whether to destroy debris like weeds, twigs, giant stumps, and fallen logs.",
+    "config.clear-debris.name": "Schutt entfernen",
+    "config.clear-debris.tooltip": "Ob Felsen, Unkraut, Äste und große Baumstümpfe entfernent werden sollen.",
 
-    "config.clear-weeds.name": "Clear Weeds",
-    "config.clear-weeds.tooltip": "Whether to destroy weeds.",
+    "config.clear-weeds.name": "Unkraut entfernen",
+    "config.clear-weeds.tooltip": "Ob das Unkraut entfernt werden soll.",
 
 
     /****
     ** Dirt
     ****/
     // TODO
-    "config.till-dirt.name": "Till Dirt",
-    "config.till-dirt.tooltip": "Whether to till empty dirt.",
+    "config.till-dirt.name": "Boden pflügen",
+    "config.till-dirt.tooltip": "Ob Erdboden zu Acker gepflügt werden soll."
 
-    "config.dig-artifact-spots.name": "Dig Artifact Spots",
-    "config.dig-artifact-spots.tooltip": "Whether to dig up artifact spots.",
+    "config.dig-artifact-spots.name": "Artefakte bergen",
+    "config.dig-artifact-spots.tooltip": "Ob Artefakte ausgegraben werden sollen.",
 
-    "config.clear-tilled-dirt.name": "Clear Tilled Dirt",
-    "config.clear-tilled-dirt.tooltip": "Whether to clear tilled dirt.",
+    "config.clear-tilled-dirt.name": "Gepflügten Acker freimachen",
+    "config.clear-tilled-dirt.tooltip": "Ob der Acker wieder Bestellbar gemacht werden soll.",
 
 
     /****
     ** Mining
     ****/
     // TODO
-    "config.break-boulders-and-meteorites.name": "Break Boulders and Meteorites",
-    "config.break-boulders-and-meteorites.tooltip": "Whether to break boulders and meteorites.",
+    "config.break-boulders-and-meteorites.name": "Felsen und Meteoriten zerstören",
+    "config.break-boulders-and-meteorites.tooltip": "Ob Felsen und Meteoriten zerstört werden sollen.",
 
-    "config.harvest-mine-spawns.name": "Harvest Mine Spawns",
-    "config.harvest-mine-spawns.tooltip": "Whether to harvest spawned mine items like quartz and frozen tears.",
+    "config.harvest-mine-spawns.name": "Sammle Minenfunde auf",
+    "config.harvest-mine-spawns.tooltip": "Ob Minenfunde wie Quarze oder Frosttränen aufgesammelt werden sollen.",
 
 
     /****
     ** Placed items
     ****/
     // TODO
-    "config.break-flooring.name": "Break Flooring",
-    "config.break-flooring.tooltip": "Whether to break placed flooring.",
+    "config.break-flooring.name": "Böden entfernen",
+    "config.break-flooring.tooltip": "Ob platzierte Bodenplatten entfernt werden sollen.",
 
-    "config.break-objects.name": "Break Objects",
-    "config.break-objects.tooltip": "Whether to break placed objects.",
+    "config.break-objects.name": "Objekte zerstört werden sollen",
+    "config.break-objects.tooltip": "Ob Objekte/Möbel/Gegenstände entfernt werden sollen.",
 
     "config.break-mine-containers.name": "Break Mine Containers",
     "config.break-mine-containers.tooltip": "Whether to break containers in the mine.",
 
-    "config.harvest-machines.name": "Harvest Machines",
-    "config.harvest-machines.tooltip": "Whether to collect machine output.",
+    "config.harvest-machines.name": "Maschinen entleeren",
+    "config.harvest-machines.tooltip": "Ob Maschinen, die mit ihrer Arbeit fertig sind, geleert werden sollen.",
 
 
     /****
     ** Melee
     ****/
     // TODO
-    "config.Attack-monsters.name": "Attack Monsters",
-    "config.Attack-monsters.tooltip": "Whether to attack monsters. (This is massively overpowered due to the tractor tool speed.)",
+    "config.Attack-monsters.name": "Monster angreifen",
+    "config.Attack-monsters.tooltip": "Ob Monster angegriffen werden sollen (ist etwas überstark durch die Traktorgeschwindigkeit).",
 
 
     /****
     ** Other
     ****/
     // TODO
-    "config.milk-pail.name": "Enable Milk Pail",
-    "config.milk-pail.tooltip": "Whether to collect milk from farm animals using the milk pail.",
+    "config.milk-pail.name": "Melken erlauben",
+    "config.milk-pail.tooltip": "Ob Farmtiere gemolken werden sollen.",
 
-    "config.shears.name": "Enable Shears",
-    "config.shears.tooltip": "Whether to collect wool from farm animals using the shears.",
+    "config.shears.name": "Scheren erlauben",
+    "config.shears.tooltip": "Ob Farmtiere geschert werden sollen.",
 
-    "config.watering-can.name": "Enable Watering Can",
-    "config.watering-can.tooltip": "Whether to water nearby tiles using the watering can. This doesn't consume water in the watering can.",
+    "config.watering-can.name": "Bewässerung erlauben",
+    "config.watering-can.tooltip": "Ob Kacheln im Wirkungsbereich gegossen werden sollen. Entleert nicht die Gießkanne.",
 
-    "config.fertilizer.name": "Enable Fertilizer",
-    "config.fertilizer.tooltip": "Whether to apply fertilizer to crops and tilled dirt.",
+    "config.fertilizer.name": "Düngen erlauben",
+    "config.fertilizer.tooltip": "Ob Pflanzen und/oder Acker gedüngt werden sollen.",
 
-    "config.grass-starters.name": "Enable Grass Starters",
-    "config.grass-starters.tooltip": "Whether to plant grass starters.",
+    "config.grass-starters.name": "Grasbüschel anpflanzen",
+    "config.grass-starters.tooltip": "Ob Grasbüschel gepflanzt werden sollen.",
 
-    "config.seeds.name": "Enable Seeds",
-    "config.seeds.tooltip": "Whether to plant seeds.",
+    "config.seeds.name": "Saat erlauben",
+    "config.seeds.tooltip": "Ob Saat ausgebracht werden soll.",
 
-    "config.seed-bags.name": "Enable Seed Bags",
-    "config.seed-bags.tooltip": "Whether to plant seeds from the Seed Bag mod.",
+    "config.seed-bags.name": "Saatbeutel erlauben",
+    "config.seed-bags.tooltip": "Ob Saat aus dem Beutel ausgebracht werden soll - aus der Saatbeutel-Mod.",
 
-    "config.slingshot.name": "Enable Slingshot",
-    "config.slingshot.tooltip": "Whether to fire the slingshot towards the cursor. (This is massively overpowered and will consume ammo voraciously due to the tractor tool speed.)",
+    "config.slingshot.name": "Schleuder erlauben",
+    "config.slingshot.tooltip": "Ob die Schlauer in Richtung des Mauszeigers genutzt werden soll. (ist überstark und wegen der Traktorgeschwindigkeit wird sehr schnell, viel Munition verbraucht)",
 
-    "config.custom-tool-names.name": "Custom Tool Names",
-    "config.custom-tool-names.tooltip": "The custom items/tools to enable while riding the tractor. Tools will be used on each surrounding tile, while items will be put down. If you specify something that's already supported (like the axe), this overrides all limitations on its use. You must specify the exact internal name (not the translated display name), like 'Axe' or 'Mega Bomb'. Separate multiple values with commas."
+    "config.custom-tool-names.name": "Benutzerdefinierte Werkzeuge",
+    "config.custom-tool-names.tooltip": "Benutzerdefinierte Items und Werkzeuge erlauben, während man auf dem Traktor sitzt. Werkzeuge werden an allem im Wirkungsbereich verwendet, während die entstehenden Items zu Boden fallen. Wenn Sie etwas eingeben, dass bereits unterstützt wird (z.B. Axt), überschreibt es alle Beschränkungen bei der Benutzung. Sie müssen den zugewiesenen originalen Werkzeugnamen des Spiels nutzen wie 'Axe' oder 'Mega Bomb' (Nichtübersetzt). Teilen Sie mehrere Werte durch Kommas auf."
 }
